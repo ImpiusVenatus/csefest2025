@@ -4,7 +4,7 @@ import AnimatedCenterTitle from '@/components/AnimatedCenterTitle';
 
 export default function Navbar() {
     return (
-        <nav className=" w-full py-4 px-6 flex items-center justify-between bg-[#deedf2] z-100">
+        <nav className="absolute w-full py-4 px-6 flex items-center justify-between bg-transparent z-100">
             {/* Left Circle: Custom Hamburger */}
             <button className="group w-12 h-12 rounded-full bg-[#2196f3] flex items-center justify-center shadow-md">
                 <div className="space-y-[5px]">

@@ -42,7 +42,7 @@ export default function AnimatedCenterTitle() {
         }
     }, []);
 
-    const text = 'CSE FEST 2025';
+    const text = 'CUET CSE FEST 2025';
 
     return (
         <div className="flex flex-col items-center justify-center">
