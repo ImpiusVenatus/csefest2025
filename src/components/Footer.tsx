@@ -6,7 +6,6 @@ import {
     MapPin,
     Clock,
     Facebook,
-    Twitter,
     Instagram,
     Linkedin,
 } from 'lucide-react';
@@ -18,42 +17,47 @@ export default function FooterSection() {
             <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-sm border-b border-white/10 pb-8">
                 <div className="flex items-center gap-3">
                     <Phone className="w-4 h-4 text-[#2196f3]" />
-                    <span>+1 800 234 5764</span>
+                    <span>+880 1780 123 456</span>
                 </div>
                 <div className="flex items-center gap-3">
                     <Mail className="w-4 h-4 text-[#2196f3]" />
-                    <span>moxom@email.com</span>
+                    <span>csefest@cuet.ac.bd</span>
                 </div>
                 <div className="flex items-center gap-3">
                     <MapPin className="w-4 h-4 text-[#2196f3]" />
-                    <span>5<sup>th</sup> Street, London, U.K.</span>
+                    <span>CUET Campus, Raozan, Chittagong</span>
                 </div>
                 <div className="flex items-center gap-3">
                     <Clock className="w-4 h-4 text-[#2196f3]" />
-                    <span>Mon – Sun, 08:00 – 22:00</span>
+                    <span>Festival Hours: 9:00 AM – 8:00 PM</span>
                 </div>
             </div>
 
             {/* 🔸 Bottom Footer Area */}
             <div className="max-w-6xl mx-auto mt-8 flex flex-col sm:flex-row justify-between items-center gap-6 text-xs">
-                {/* Links */}
+                {/* Navigation Links */}
                 <div className="flex gap-6">
-                    <a href="#" className="hover:underline">Licensing</a>
-                    <a href="#" className="hover:underline">Styles</a>
-                    <a href="#" className="hover:underline">Changelog</a>
+                    <a href="/about" className="hover:underline">About CSE Fest</a>
+                    <a href="/events" className="hover:underline">Events</a>
+                    <a href="/team" className="hover:underline">Organizing Team</a>
                 </div>
 
                 {/* Social Icons */}
                 <div className="flex gap-6 text-white text-base">
-                    <a href="#"><Facebook className="w-4 h-4 hover:text-[#2196f3]" /></a>
-                    <a href="#"><Twitter className="w-4 h-4 hover:text-[#2196f3]" /></a>
-                    <a href="#"><Instagram className="w-4 h-4 hover:text-[#2196f3]" /></a>
-                    <a href="#"><Linkedin className="w-4 h-4 hover:text-[#2196f3]" /></a>
+                    <a href="https://facebook.com/csefestcuet" target="_blank">
+                        <Facebook className="w-4 h-4 hover:text-[#2196f3]" />
+                    </a>
+                    <a href="https://instagram.com/csefestcuet" target="_blank">
+                        <Instagram className="w-4 h-4 hover:text-[#2196f3]" />
+                    </a>
+                    <a href="https://linkedin.com/company/csefestcuet" target="_blank">
+                        <Linkedin className="w-4 h-4 hover:text-[#2196f3]" />
+                    </a>
                 </div>
 
                 {/* Credit */}
-                <div className="text-gray-400">
-                    Powered by <span className="font-semibold text-white">Webflow.com</span>
+                <div className="text-gray-400 text-center">
+                    © {new Date().getFullYear()} <span className="font-semibold text-white">CSE Fest CUET</span>. All rights reserved.
                 </div>
             </div>
         </footer>
