@@ -6,9 +6,9 @@ import { easeOut, motion } from 'framer-motion';
 
 const albums = [
     {
-        title: 'CSE FEST 2023',
-        year: '2023',
-        slug: 'cse-fest-2023',
+        title: 'CSE FEST 2022',
+        year: '2022',
+        slug: 'cse-fest-2022',
         imageUrl: '/albums/2023_cover.jpg',
     },
     {

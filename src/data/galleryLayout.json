@@ -1,0 +1,358 @@
+[
+  {
+    "image": "gallery_img (1).jpg",
+    "className": "w-32 h-48 -rotate-1 z-39"
+  },
+  {
+    "image": "gallery_img (2).jpg",
+    "className": "w-48 h-48 -rotate-1 z-17"
+  },
+  {
+    "image": "gallery_img (3).jpg",
+    "className": "w-48 h-48 rotate-2 z-28"
+  },
+  {
+    "image": "gallery_img (4).jpg",
+    "className": "w-32 h-40 rotate-2 z-14"
+  },
+  {
+    "image": "gallery_img (5).jpg",
+    "className": "w-32 h-48 -rotate-1 z-20"
+  },
+  {
+    "image": "gallery_img (6).jpg",
+    "className": "w-40 h-40 rotate-1 z-38"
+  },
+  {
+    "image": "gallery_img (7).jpg",
+    "className": "w-32 h-48 rotate-2 z-32"
+  },
+  {
+    "image": "gallery_img (8).jpg",
+    "className": "w-56 h-40 rotate-2 z-11"
+  },
+  {
+    "image": "gallery_img (9).jpg",
+    "className": "w-40 h-64 rotate-1 z-14"
+  },
+  {
+    "image": "gallery_img (10).jpg",
+    "className": "w-32 h-64 -rotate-1 z-50"
+  },
+  {
+    "image": "gallery_img (11).jpg",
+    "className": "w-64 h-40 rotate-2 z-11"
+  },
+  {
+    "image": "gallery_img (12).jpg",
+    "className": "w-56 h-48 -rotate-2 z-20"
+  },
+  {
+    "image": "gallery_img (13).jpg",
+    "className": "w-64 h-72 rotate-1 z-13"
+  },
+  {
+    "image": "gallery_img (14).jpg",
+    "className": "w-48 h-64 rotate-1 z-14"
+  },
+  {
+    "image": "gallery_img (15).jpg",
+    "className": "w-56 h-48 -rotate-2 z-30"
+  },
+  {
+    "image": "gallery_img (16).jpg",
+    "className": "w-56 h-40 rotate-2 z-24"
+  },
+  {
+    "image": "gallery_img (17).jpg",
+    "className": "w-32 h-48 -rotate-1 z-14"
+  },
+  {
+    "image": "gallery_img (18).jpg",
+    "className": "w-64 h-48 rotate-0 z-45"
+  },
+  {
+    "image": "gallery_img (19).jpg",
+    "className": "w-64 h-72 rotate-1 z-41"
+  },
+  {
+    "image": "gallery_img (20).jpg",
+    "className": "w-40 h-72 rotate-2 z-16"
+  },
+  {
+    "image": "gallery_img (21).jpg",
+    "className": "w-48 h-48 rotate-1 z-49"
+  },
+  {
+    "image": "gallery_img (22).jpg",
+    "className": "w-48 h-48 rotate-0 z-37"
+  },
+  {
+    "image": "gallery_img (23).jpg",
+    "className": "w-56 h-72 -rotate-1 z-42"
+  },
+  {
+    "image": "gallery_img (24).jpg",
+    "className": "w-40 h-64 rotate-1 z-40"
+  },
+  {
+    "image": "gallery_img (25).jpg",
+    "className": "w-64 h-40 rotate-2 z-24"
+  },
+  {
+    "image": "gallery_img (26).jpg",
+    "className": "w-32 h-56 rotate-1 z-27"
+  },
+  {
+    "image": "gallery_img (27).jpg",
+    "className": "w-40 h-40 rotate-1 z-29"
+  },
+  {
+    "image": "gallery_img (28).jpg",
+    "className": "w-48 h-56 rotate-0 z-18"
+  },
+  {
+    "image": "gallery_img (29).jpg",
+    "className": "w-64 h-56 rotate-1 z-13"
+  },
+  {
+    "image": "gallery_img (30).jpg",
+    "className": "w-56 h-48 rotate-2 z-29"
+  },
+  {
+    "image": "gallery_img (31).jpg",
+    "className": "w-48 h-48 -rotate-1 z-24"
+  },
+  {
+    "image": "gallery_img (32).jpg",
+    "className": "w-32 h-72 -rotate-2 z-49"
+  },
+  {
+    "image": "gallery_img (33).jpg",
+    "className": "w-32 h-56 -rotate-2 z-13"
+  },
+  {
+    "image": "gallery_img (34).jpg",
+    "className": "w-40 h-48 -rotate-2 z-18"
+  },
+  {
+    "image": "gallery_img (35).jpg",
+    "className": "w-48 h-72 -rotate-1 z-40"
+  },
+  {
+    "image": "gallery_img (36).jpg",
+    "className": "w-48 h-72 rotate-2 z-28"
+  },
+  {
+    "image": "gallery_img (37).jpg",
+    "className": "w-32 h-72 -rotate-1 z-15"
+  },
+  {
+    "image": "gallery_img (38).jpg",
+    "className": "w-48 h-56 rotate-1 z-32"
+  },
+  {
+    "image": "gallery_img (39).jpg",
+    "className": "w-40 h-40 -rotate-2 z-13"
+  },
+  {
+    "image": "gallery_img (40).jpg",
+    "className": "w-64 h-56 rotate-2 z-18"
+  },
+  {
+    "image": "gallery_img (41).jpg",
+    "className": "w-48 h-40 -rotate-2 z-32"
+  },
+  {
+    "image": "gallery_img (42).jpg",
+    "className": "w-40 h-64 rotate-2 z-22"
+  },
+  {
+    "image": "gallery_img (43).jpg",
+    "className": "w-32 h-48 rotate-0 z-27"
+  },
+  {
+    "image": "gallery_img (44).jpg",
+    "className": "w-32 h-72 -rotate-2 z-15"
+  },
+  {
+    "image": "gallery_img (45).jpg",
+    "className": "w-48 h-48 rotate-0 z-14"
+  },
+  {
+    "image": "gallery_img (46).jpg",
+    "className": "w-40 h-40 -rotate-1 z-46"
+  },
+  {
+    "image": "gallery_img (47).jpg",
+    "className": "w-40 h-64 rotate-1 z-30"
+  },
+  {
+    "image": "gallery_img (48).jpg",
+    "className": "w-48 h-64 -rotate-1 z-18"
+  },
+  {
+    "image": "gallery_img (49).jpg",
+    "className": "w-64 h-64 -rotate-1 z-46"
+  },
+  {
+    "image": "gallery_img (50).jpg",
+    "className": "w-64 h-40 rotate-1 z-36"
+  },
+  {
+    "image": "gallery_img (51).jpg",
+    "className": "w-56 h-48 rotate-0 z-43"
+  },
+  {
+    "image": "gallery_img (52).jpg",
+    "className": "w-32 h-64 rotate-0 z-16"
+  },
+  {
+    "image": "gallery_img (53).jpg",
+    "className": "w-64 h-48 rotate-2 z-30"
+  },
+  {
+    "image": "gallery_img (54).jpg",
+    "className": "w-56 h-72 rotate-2 z-16"
+  },
+  {
+    "image": "gallery_img (55).jpg",
+    "className": "w-56 h-48 rotate-2 z-26"
+  },
+  {
+    "image": "gallery_img (56).jpg",
+    "className": "w-40 h-72 -rotate-2 z-25"
+  },
+  {
+    "image": "gallery_img (57).jpg",
+    "className": "w-56 h-40 -rotate-1 z-14"
+  },
+  {
+    "image": "gallery_img (58).jpg",
+    "className": "w-40 h-64 rotate-0 z-30"
+  },
+  {
+    "image": "gallery_img (59).jpg",
+    "className": "w-32 h-56 rotate-2 z-15"
+  },
+  {
+    "image": "gallery_img (60).jpg",
+    "className": "w-40 h-64 rotate-0 z-15"
+  },
+  {
+    "image": "gallery_img (61).jpg",
+    "className": "w-40 h-64 rotate-2 z-43"
+  },
+  {
+    "image": "gallery_img (62).jpg",
+    "className": "w-48 h-56 rotate-2 z-39"
+  },
+  {
+    "image": "gallery_img (63).jpg",
+    "className": "w-48 h-56 rotate-1 z-32"
+  },
+  {
+    "image": "gallery_img (64).jpg",
+    "className": "w-32 h-56 -rotate-1 z-35"
+  },
+  {
+    "image": "gallery_img (65).jpg",
+    "className": "w-64 h-40 rotate-0 z-43"
+  },
+  {
+    "image": "gallery_img (66).jpg",
+    "className": "w-48 h-48 -rotate-1 z-39"
+  },
+  {
+    "image": "gallery_img (67).jpg",
+    "className": "w-48 h-72 rotate-1 z-17"
+  },
+  {
+    "image": "gallery_img (68).jpg",
+    "className": "w-64 h-40 -rotate-1 z-46"
+  },
+  {
+    "image": "gallery_img (69).jpg",
+    "className": "w-40 h-64 rotate-2 z-50"
+  },
+  {
+    "image": "gallery_img (70).jpg",
+    "className": "w-40 h-72 -rotate-2 z-37"
+  },
+  {
+    "image": "gallery_img (71).jpg",
+    "className": "w-40 h-64 -rotate-2 z-16"
+  },
+  {
+    "image": "gallery_img (72).jpg",
+    "className": "w-56 h-64 rotate-1 z-40"
+  },
+  {
+    "image": "gallery_img (73).jpg",
+    "className": "w-48 h-72 rotate-0 z-47"
+  },
+  {
+    "image": "gallery_img (74).jpg",
+    "className": "w-40 h-48 rotate-2 z-29"
+  },
+  {
+    "image": "gallery_img (75).jpg",
+    "className": "w-32 h-40 rotate-0 z-13"
+  },
+  {
+    "image": "gallery_img (76).jpg",
+    "className": "w-64 h-64 -rotate-2 z-43"
+  },
+  {
+    "image": "gallery_img (77).jpg",
+    "className": "w-48 h-72 rotate-2 z-27"
+  },
+  {
+    "image": "gallery_img (78).jpg",
+    "className": "w-64 h-48 rotate-2 z-42"
+  },
+  {
+    "image": "gallery_img (79).jpg",
+    "className": "w-48 h-40 -rotate-2 z-27"
+  },
+  {
+    "image": "gallery_img (80).jpg",
+    "className": "w-56 h-72 rotate-1 z-21"
+  },
+  {
+    "image": "gallery_img (81).jpg",
+    "className": "w-40 h-72 rotate-1 z-27"
+  },
+  {
+    "image": "gallery_img (82).jpg",
+    "className": "w-56 h-40 -rotate-2 z-13"
+  },
+  {
+    "image": "gallery_img (83).jpg",
+    "className": "w-48 h-56 rotate-2 z-27"
+  },
+  {
+    "image": "gallery_img (84).jpg",
+    "className": "w-40 h-48 rotate-0 z-10"
+  },
+  {
+    "image": "gallery_img (85).jpg",
+    "className": "w-40 h-64 -rotate-2 z-11"
+  },
+  {
+    "image": "gallery_img (86).jpg",
+    "className": "w-40 h-40 rotate-2 z-42"
+  },
+  {
+    "image": "gallery_img (87).jpg",
+    "className": "w-56 h-64 rotate-1 z-14"
+  },
+  {
+    "image": "gallery_img (88).jpg",
+    "className": "w-40 h-56 rotate-2 z-49"
+  },
+  {
+    "image": "gallery_img (89).jpg",
+    "className": "w-48 h-64 -rotate-1 z-39"
+  }
+]
