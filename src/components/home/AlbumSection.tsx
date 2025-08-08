@@ -56,10 +56,6 @@ export default function AlbumSection() {
             <div className="max-w-6xl mx-auto px-6">
                 {/* 🔷 Heading with mirrored lines */}
                 <div className="flex justify-center items-center gap-6 mb-12 relative">
-                    {/* Static gray extensions */}
-                    <div className="hidden md:block absolute right-full top-1/2 w-32 h-px bg-gray-300" />
-                    <div className="hidden md:block absolute left-full top-1/2 w-32 h-px bg-gray-300" />
-
                     {/* Left Line (animated) */}
                     <motion.div
                         custom="left"
@@ -107,7 +103,7 @@ export default function AlbumSection() {
                             variants={cardVariant}
                         >
                             <Link href={`/albums/${slug}`}>
-                                <div className="group cursor-pointer rounded-md overflow-hidden transition-all">
+                                <div className="group rounded-md overflow-hidden transition-all">
                                     {/* Image with zoom on hover */}
                                     <div className="relative w-full h-60 overflow-hidden">
                                         <Image

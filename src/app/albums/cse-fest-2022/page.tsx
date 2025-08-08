@@ -130,7 +130,7 @@ export default function CSEFest2022Page() {
                         <motion.div
                             key={i}
                             style={{ x: springX, y: springY, top, left }}
-                            className={`absolute ${className} scale-[1.8] pointer-events-auto cursor-pointer`}
+                            className={`absolute ${className} scale-[1.8] pointer-events-auto`}
                             onClick={() => setFullscreenImage(image)}
                         >
                             <Image
